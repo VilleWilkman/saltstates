@@ -1,4 +1,4 @@
-install_ohjelma1:
+install_cmatrix:
   pkg.installed:
     - pkgs:
       - cmatrix
